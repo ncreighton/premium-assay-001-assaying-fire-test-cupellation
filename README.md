@@ -1,0 +1,2 @@
+# premium-assay-001-assaying-fire-test-cupellation
+Tired of losing track of your cupellation results in scattered notebooks and spreadsheets? The Assaying Fire Test Cupellation Result Manager turns your Notion workspace into a precise, error-proof assay lab record.  This template eliminates manual calculation errors and disorganized data by providing a structured database for every fire test. It au
